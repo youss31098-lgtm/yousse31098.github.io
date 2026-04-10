@@ -113,9 +113,12 @@ section.ima {
 img.ed {
     padding: 4px;
     width: 100px;
-    margin: 30px 110px 30px;
+    margin: 30px 80px 30px;
 }
 
+p.p {
+    color: var(--text-light);
+}
 
 footer {
     width: 100%;
